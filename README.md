@@ -1,2 +1,2 @@
 # Python
-To learn Python
+To learn Python course
